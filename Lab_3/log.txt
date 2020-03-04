@@ -1,0 +1,3 @@
+Создан объект квартира
+Квартира открыта
+Ошибка: java.lang.NullPointerException
