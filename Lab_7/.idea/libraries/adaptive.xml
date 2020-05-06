@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adaptive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lab_11/lib/mysql-connector-java-5.1.14-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
