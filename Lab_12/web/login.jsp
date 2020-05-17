@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="http://mycompany.com//mytags" prefix="MyTags"%>
 <html>
 <head>
     <title>Authorize</title>
@@ -31,9 +32,10 @@
 <fieldset>
     <legend>Authorize</legend>
     <form method="POST" action="login">
-        <input name="login" type="text" placeholder="login" value="admin"/>
+        <MyTags:GMPLabledTextField name="login" label="Enter login" value="admin"/>
+<%--        <input name="login" type="text" placeholder="login" value="admin"/>--%>
         <input name="password" type="password" placeholder="password" value="admin"/>
-        <input type="submit" value="Sign in"/>
+        <MyTags:GMPSumbit label="Sign in"/>
     </form>
 </fieldset>
 <form method="POST" action="GoToRegister">

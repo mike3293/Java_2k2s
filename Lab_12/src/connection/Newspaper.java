@@ -34,4 +34,13 @@ public class Newspaper {
     public void setUserid(int userid) {
         this.userid = userid;
     }
+
+    @Override
+    public String toString() {
+        return "Newspaper{" +
+                "id=" + id +
+                ", newspapernumber='" + newspapernumber + '\'' +
+                ", userid=" + userid +
+                '}';
+    }
 }
