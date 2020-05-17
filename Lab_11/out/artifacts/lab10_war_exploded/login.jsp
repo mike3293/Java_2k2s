@@ -31,8 +31,8 @@
 <fieldset>
     <legend>Authorize</legend>
     <form method="POST" action="login">
-        <input name="login" type="text" placeholder="login" value="admin1"/>
-        <input name="password" type="password" placeholder="password" value="admin1"/>
+        <input name="login" type="text" placeholder="login" value="admin"/>
+        <input name="password" type="password" placeholder="password" value="admin"/>
         <input type="submit" value="Sign in"/>
     </form>
 </fieldset>
