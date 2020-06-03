@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="imqjmsra">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/imqjmsra.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

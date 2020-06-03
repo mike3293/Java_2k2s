@@ -20,6 +20,9 @@
 <form method="GET" action="Servlet2">
   <input type="submit" value="Task7"/>
 </form>
+<form method="POST" action="ServletSendMOM">
+  <input type="submit" value="send mom"/>
+</form>
 </body>
 <%@include file="Footer.jsp"%><br>
 </html>
