@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab_9EE:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e129445-96de-4d9f-bb9a-acde32859a65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bATqWKfV3GMwszVNHXQE4yifTC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.0.11" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.11" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9999/Lab_9EE_war_exploded" />
+      <deployment>
+        <artifact name="Lab_9EE:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lab_9EE:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GlassFish Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GlassFish Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e129445-96de-4d9f-bb9a-acde32859a65" name="Default Changelist" comment="" />
+      <created>1588074089948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588074089948</updated>
+      <workItem from="1588074091625" duration="378000" />
+      <workItem from="1588074587604" duration="437000" />
+      <workItem from="1588075433635" duration="279000" />
+      <workItem from="1588075823752" duration="1144000" />
+      <workItem from="1588157230257" duration="794000" />
+      <workItem from="1588162831811" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="199" key="#Project_Structure" timestamp="1588075469559">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="223" y="199" key="#Project_Structure/0.0.2498.1080@0.0.2498.1080" timestamp="1588075469559" />
+    <state x="85" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588076114675">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="85" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1588076114675" />
+    <state x="223" y="198" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1588076112300">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="223" y="198" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.2498.1080@0.0.2498.1080" timestamp="1588076112300" />
+    <state x="411" y="281" key="FileChooserDialogImpl" timestamp="1588158967637">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="411" y="281" key="FileChooserDialogImpl/0.0.2498.1080@0.0.2498.1080" timestamp="1588158967637" />
+    <state width="1697" height="270" key="GridCell.Tab.0.bottom" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.0.bottom/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.0.center" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.0.center/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.0.left" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.0.left/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.0.right" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.0.right/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.1.bottom" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.1.bottom/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.1.center" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.1.center/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.1.left" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.1.left/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state width="1697" height="270" key="GridCell.Tab.1.right" timestamp="1588175513245">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1697" height="270" key="GridCell.Tab.1.right/0.0.2498.1080@0.0.2498.1080" timestamp="1588175513245" />
+    <state x="308" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1588075827465">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="308" y="364" key="com.intellij.ide.util.TipDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1588075827465" />
+    <state x="318" y="114" width="626" height="852" key="find.popup" timestamp="1588075705270">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="318" y="114" width="626" height="852" key="find.popup/0.0.2498.1080@0.0.2498.1080" timestamp="1588075705270" />
+  </component>
+</project>
